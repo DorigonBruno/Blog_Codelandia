@@ -71,5 +71,20 @@
         dolores numquam? Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
     </div>
   </section>
+  <script src="https://unpkg.com/scrollreveal"></script>
+  <script>
+    const sr = ScrollReveal({
+      origin: 'left',
+      distance: '50px',
+      duration: 1500,
+      reset: false
+    });
+
+    ScrollReveal().reveal('.container-main', { delay: 200 });
+    ScrollReveal().reveal('.data', { delay: 400 });
+    ScrollReveal().reveal('.titulo', { delay: 500 });
+    ScrollReveal().reveal('.para', { delay: 600 });
+  </script>
+
 </body>
 </html>
