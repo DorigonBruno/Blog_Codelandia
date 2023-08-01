@@ -1,5 +1,5 @@
 <p>
-  <img src="./github/blog-thumb.png">
+  <img src="./github/ezgif.com-video-to-gif.gif">
 </p>
 
 ## Projeto Desafio 1 - Codelândia 📝
